@@ -27,7 +27,5 @@
 
 ---
 
-![Biniyam's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=biniyamx&theme=transparent&text_color=ffffff)
-![Biniyam's Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biniyamx&theme=transparent&text_color=ffffff)
 
 
