@@ -2,7 +2,6 @@
 
 🎓 Computer Science & Engineering Student  
 🏫 Adama Science and Technology University  
-💻 Learning Frontend Development 
 
 ---
 
